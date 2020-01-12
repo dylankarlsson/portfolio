@@ -5,11 +5,11 @@ title:               Dylan Karlsson
 tagline:             'digital archivist'
 description:         'more tagline.'
 url:                 'https://dylankarlsson.github.io'
-baseurl:             '/portfolio'
+baseurl:             '/dylkarlsson/portfolio'
 
 # About/contact
 author:
-  name:             
+  name:
   url:
   email:
 
