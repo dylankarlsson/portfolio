@@ -5,7 +5,7 @@ title:               Dylan Karlsson
 tagline:             'digital archivist'
 description:         'more tagline.'
 url:                 'https://dylankarlsson.github.io'
-baseurl:             '/dylkarlsson/portfolio'
+baseurl:             '/portfolio'
 
 # About/contact
 author:
