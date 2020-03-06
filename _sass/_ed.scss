@@ -142,6 +142,17 @@ p {
   margin-bottom: 1rem;
 }
 
+.theme-base-green .sidebar,
+.theme-base-green .sidebar-toggle:active {
+  background-color: #90a959;
+}
+
+.theme-base-green .container a,
+.theme-base-green .sidebar-toggle,
+.theme-base-green .related-posts li a:hover {
+  color: #90a959;
+}
+
 /* Lists */
 ul {
   list-style: circle;
