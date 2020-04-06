@@ -3,7 +3,6 @@ layout: page
 title: Record of Advising History
 author: Dylan Karlsson
 ---
-## Advising History
 
 I have been fortunate enough to have built a relationship with Professor Miriam Posner since my time as an undergraduate student at UCLA. I sought her guidance when considering the Digital Humanities minor and also when I was initially deciding to apply for the Information Studies graduate program. Seeking her counseling again as she transitioned to the Information Studies Department faculty, I have met with her consistently each quarter to discuss my progress both academically and professionally.
 
