@@ -6,7 +6,7 @@ author: Dylan Karlsson
 
 ## Fall 2017
 
-- IS 431 Archives, Records, and Memory with Professor Anne Gilliland*
+- IS 431 Archives, Records, and Memory with Professor Anne Gilliland^
 
 ## Fall 2018
 
@@ -45,5 +45,5 @@ author: Dylan Karlsson
 - DH 299 Special Projects in Digital Humanities with Professor David Shorter
 
 ## Notes:
-- * Taken for credit as an undergraduate student
+- ^ Taken for credit as an undergraduate student
 - ** Taken towards the fulfillment of the Graduate Certificate in Digital Humanities
