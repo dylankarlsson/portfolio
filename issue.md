@@ -12,8 +12,6 @@ As archival institutions struggle to remain independent and operational amidst a
 
 ------
 
-## Issue Paper
-
 # A Collective Capacity: Labor and Sustainability in Volunteer-Run Archives
 
 This paper builds off of the research and work of Bergis Jules and the Architecting Sustainable Futures project, which explores funding and organizational models for small, community-based archival organizations. I narrow the focus of this capacity-building project on the models and practices of volunteer-run archives. I survey the organizational structure of the Interference Archive, a volunteer-run community archive in Brooklyn, NY that collects activist and social movement ephemera. In recognizing the paucity of resources available for these institutions, this paper presents recommendations and guidelines, upon which various volunteer-run archives can develop sustainable models and practices that cohere to the capacity and needs of each institution.
