@@ -3,6 +3,12 @@ layout: page
 title: Issue Paper
 ---
 
+{:.no_toc}
+
+* ToC
+{:toc}
+
+---
 ## 50 Word Statement
 
 As archival institutions struggle to remain independent and operational amidst a lack of funding and resources, the labor of preserving public memory becomes an excess expenditure, often undertaken by volunteers. I will assess the mission, role, and logistical organization of volunteer-run archives in developing sustainable labor practices and future models.
