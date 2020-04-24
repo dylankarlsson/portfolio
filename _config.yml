@@ -3,7 +3,7 @@
 # Setup
 title:               Dylan Karlsson
 tagline:             'mlis'
-description:         'digital archiving.'
+description:         'MLIS Portfolio'
 url:                 'http://dylankarlsson.github.io'
 baseurl:             '/portfolio'
 
@@ -14,7 +14,7 @@ author:
   email:
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: green
+color-scheme: dark green
 
 # Permalinks
 permalink: pretty
