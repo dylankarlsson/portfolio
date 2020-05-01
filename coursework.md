@@ -3,8 +3,6 @@ layout: page
 ---
 {:.no_toc}
 
-* ToC
-{:toc}
 ---
 # Major Paper
 ## Outside Agents: Co-Appraisal and the Capacity for Multiplicities in the Participatory Archive
