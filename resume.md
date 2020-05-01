@@ -27,7 +27,7 @@ title: Resume
 - **UCLA Herbarium, Herbarium Technician – June - September 2019**  
   - Collected and arranged plant press specimen  
   - Input and cataloged specimen data  
-  - Organized and idetified botanical specimen  
+  - Organized and identified botanical specimen  
   - Packed and shipped delicate herbaria materials  
 
 - **CFPRT, University Archives Processing Scholar – October 2018 - March 2019**
@@ -77,3 +77,6 @@ title: Resume
 - Metadata Schemas: MODS, Dublin Core, VRA Core, METS, TEI  
 - Data Cleaning:OpenRefine, R Studio, Excel  
 - Web Development: GitHub, Mobirise, HTML, CSS  
+
+---
+[A full-text PDF of the Resume is available here.](Resume_Karlsson.pdf)
