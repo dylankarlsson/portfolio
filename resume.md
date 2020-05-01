@@ -3,13 +3,15 @@ layout: page
 title: Resume
 ---
 
-### Education
+## Education
 
 • **University of California, Los Angeles** – Masters in Library and Information Studies, 2020 Candidate
+
 • **University of California, Los Angeles** –  Graduate Certificate in Digital Humanities, 2020 Candidate
+
 • **University of California, Los Angeles** – BA in English with minor in Digital Humanities, 2018
 ---
-### Professional experience
+## Professional experience
 
 • **Visual Communications, Intern – September 2019 - Present**
 	• Digitized and processed photographic material
@@ -57,7 +59,7 @@ title: Resume
 • **Herbarium Fellow**, UCLA Herbarium, 2019
 • **Library & Information Studies Alumni Fellowship**, 2018
 ---
-### Skills
+## Skills
 
 • Excellent writing capabilities
 • Experienced with Photoshop and InDesign
@@ -66,7 +68,7 @@ title: Resume
 • Proficient in Microsoft Office Suite
 • Public speaking and public service
 ---
-### Technology
+## Technology
 
 • Content Management Systems: Archivesspace, MS Access, Adobe Bridge
 • Data Management: OpenRefine, MySQL
