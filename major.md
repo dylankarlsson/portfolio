@@ -2,10 +2,6 @@
 layout: page
 title: Major Paper
 ---
-
-{:.no_toc}
-
----
 # Outside Agents: Co-Appraisal and the Capacity for Multiplicities in the Participatory Archive
 
 [A full-text PDF of the paper is available here.](MajorPaper_Karlsson.pdf)
