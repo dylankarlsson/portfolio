@@ -10,6 +10,7 @@ title: Resume
 • **University of California, Los Angeles** –  Graduate Certificate in Digital Humanities, 2020 Candidate
 
 • **University of California, Los Angeles** – BA in English with minor in Digital Humanities, 2018
+
 ---
 ## Professional experience
 
@@ -58,6 +59,7 @@ title: Resume
 • **Mellon-UCLA Community Archives MLIS Internship**, Visual Communications, 2019-2020
 • **Herbarium Fellow**, UCLA Herbarium, 2019
 • **Library & Information Studies Alumni Fellowship**, 2018
+
 ---
 ## Skills
 
@@ -67,6 +69,7 @@ title: Resume
 • Video and audio production
 • Proficient in Microsoft Office Suite
 • Public speaking and public service
+
 ---
 ## Technology
 
