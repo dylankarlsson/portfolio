@@ -51,10 +51,12 @@ title: Resume
   - Managed important library functions for patrons  
   - Delegated and organized tasks for students to perform  
   - Trained new workers necessary skills  
+
   ---
 ## Awards and Fellowships
 
-- **Mellon-UCLA Community Archives MLIS Internship**, Visual Communications, 2019-2020  
+- **Mellon-UCLA Community Archives MLIS Internship**,  
+     Visual Communications, 2019-2020  
 - **Herbarium Fellow**, UCLA Herbarium, 2019  
 - **Library & Information Studies Alumni Fellowship**, 2018  
 
