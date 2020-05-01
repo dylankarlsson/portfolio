@@ -5,6 +5,7 @@ author: Dylan Karlsson
 ---
 
 [A full-text PDF of the entire portfolio is available for download here.](Portfolio_Karlsson.pdf)
+
 <p align="center">
-![Portfolio cover, with image of window obscuring a chess game.](assets/Portfolio_Cover.png "Portfolio_Cover")
+  <img src="assets/Portfolio_Cover.png" alt="Portfolio cover, with image of window obscuring a chess game.">
 </p>
