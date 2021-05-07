@@ -5,14 +5,19 @@ title: Resume
 
 ## Education
 
-• **University of California, Los Angeles** – Masters in Library and Information Studies, 2020 Candidate  
-• **University of California, Los Angeles** –  Graduate Certificate in Digital Humanities, 2020 Candidate  
+• **University of California, Los Angeles** – Masters in Library and Information Studies, 2020
+• **University of California, Los Angeles** –  Graduate Certificate in Digital Humanities, 2020
 • **University of California, Los Angeles** – BA in English with minor in Digital Humanities, 2018  
 
 ---
 ## Professional experience
 
-- **Visual Communications, Intern – September 2019 - Present**  
+- **Los Angeles Master Chorale, Archival Assistant – November 2020 - February 2021**
+  - Catalogued and re-housed 46 boxes of photographic and audiovisual materials
+  - Produced a working index and a collection finding aid
+	- Determined prioritization criteria for future digitization
+
+- **Visual Communications, Intern – September 2019 - June 2020**  
   - Digitized and processed photographic material  
   - Trained student interns on archival procedures  
   - Planned and facilitated community metadata tagging events, in person and online  
@@ -81,4 +86,4 @@ title: Resume
 - Web Development: GitHub, Mobirise, HTML, CSS  
 
 ---
-[A full-text PDF of the Resume is available here.](Resume_Karlsson.pdf)
+[A full-text PDF of the Resume is available here.](WebResume-Karlsson-2.pdf)
