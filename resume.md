@@ -5,9 +5,9 @@ title: Resume
 
 ## Education
 
-- • **University of California, Los Angeles** – Masters in Library and Information Studies, 2020
-- • **University of California, Los Angeles** –  Graduate Certificate in Digital Humanities, 2020
-- • **University of California, Los Angeles** – BA in English with minor in Digital Humanities, 2018  
+- **University of California, Los Angeles** – Masters in Library and Information Studies, 2020
+- **University of California, Los Angeles** –  Graduate Certificate in Digital Humanities, 2020
+- **University of California, Los Angeles** – BA in English with minor in Digital Humanities, 2018  
 
 ---
 ## Professional experience
